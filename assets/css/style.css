@@ -1,0 +1,14 @@
+@font-face {
+    font-family: Inconstala;
+    src: url("../fonts/inconsolata.woff") format("woff");
+}
+
+* {
+    font-family: Space;
+}
+
+nav a{
+    color : #fff;
+    font-size: 24px;
+    font-family: Inconstala !important;
+}
